@@ -6,8 +6,8 @@ trac2vec is a library for efficient learning of track, artist, and genre represe
 Build system of track2vec only supports Linux and Macos.
 
 ```
-$ git clone https://github.com/music-flo/reco-track2vec
-$ cd reco-track2vec
+$ git clone https://github.com/okwon78/track2vec
+$ cd track2vec
 $ mkdir build && cd build && cmake ..
 $ make
 ```
